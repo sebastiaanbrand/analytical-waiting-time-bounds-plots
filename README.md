@@ -32,7 +32,7 @@ The plot in Fig. 4 can be generated with
 ```
 $ python bounds_plots.py mean
 ```
-Running the numerical calculation can take up to ~40 minutes (depending on hardare). The plot is written to `results/mean_bounds_ratios_plot.pdf`.
+Running the numerical calculation can take up to ~40 minutes (depending on hardware). The plot is written to `results/mean_bounds_ratios_plot.pdf`.
 
 ### Figure 5
 The plots in Fig. 5 can be generated with
