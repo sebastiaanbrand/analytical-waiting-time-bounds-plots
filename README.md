@@ -14,7 +14,7 @@ The following files
 * `repeater_chain_analyzer.py`
 * `werner_tools.py`
 
-contain the implementation of the numerical numerical calculations from [previous work](https://ieeexplore.ieee.org/abstract/document/8972391) ([arXiv](https://arxiv.org/abs/1912.07688)), and are originally from [this repository](https://github.com/sebastiaanbrand/waiting-time-quantum-repeater-chains).
+contain the implementation of the numerical calculations from [previous work](https://ieeexplore.ieee.org/abstract/document/8972391) ([arXiv](https://arxiv.org/abs/1912.07688)), and are originally from [this repository](https://github.com/sebastiaanbrand/waiting-time-quantum-repeater-chains).
 
 ## Dependencies
 The code is written for `Python 3` and requires the following packages:
